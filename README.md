@@ -1,4 +1,4 @@
-# Shoppro
+# skypro_furniture-store
 
 Магазин продажи мебели.
 ____
