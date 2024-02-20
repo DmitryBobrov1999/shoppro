@@ -5,7 +5,7 @@ ____
 
 ## Ссылка на приложение:
 
-https://dmitrybobrov1999.github.io/shoppro/
+https://dmitrybobrov1999.github.io/skypro_furniture-store/
 
 ____
 
